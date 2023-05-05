@@ -53,7 +53,7 @@ Repo:
 GitHub repository: alx-frontend-for-fun
 File: markdown2html.py
  
-1. Headings
+1. Heading
 #advanced
 Improve markdown2html.py by parsing Headings Markdown syntax for generating HTML:
 
