@@ -1022,7 +1022,7 @@ GitHub repository: alx-frontend-for-fun
 Directory: flexbox
 File: 100-article.html, 100-styles.css
  
-16. Timemachine boxes!
+16. Timemachine boxes.
 #advanced
 Write a CSS file that display a set of boxes in the same layout as the example screenshot below.
 
