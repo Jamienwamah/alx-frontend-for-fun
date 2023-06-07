@@ -1,0 +1,6 @@
+/* create heading tags, where the heading number is the size of the font used.*/
+@for $i from 1 through 5 {
+    h#{$i} {
+        font-size: 0px + $i;
+    }
+}
